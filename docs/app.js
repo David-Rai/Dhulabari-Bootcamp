@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded",()=>{
     const sites=
 [
-    's1','s2','s3','s4'
+    'ram','shyam','hari','prashad'
 ]
 let main_container=document.querySelector('.main-container')
 console.log(main_container)
