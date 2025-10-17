@@ -1,0 +1,38 @@
+
+div{
+    width: 60%;
+    /* background-color: thistle; */
+    background-color:rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 500px;
+    }
+    a{
+        width: 30px;
+        transition: 0.5s;
+        text-decoration: NONE;
+         color: white;
+        border-radius: 500px;
+        font-size: 30px;
+        padding: 10PX;
+
+    }
+    div:hover{
+        color: bisque;
+        background-color: rgb(97, 97, 97);
+        padding: 20px;
+        /* width: 35px; */
+    }
+    a:hover{
+        padding: 40px;
+        color: white;
+        /* background-color: azure; */
+        /* width: 45px; */
+        font-size: 40px;
+    }
+    h1{
+        border-radius: 500px;
+        background-color: rgba(78, 97, 133, 0);
+        color: aliceblue;
+        -webkit-text-stroke-color: black;
+        -webkit-text-stroke-width: 1px;
+    }

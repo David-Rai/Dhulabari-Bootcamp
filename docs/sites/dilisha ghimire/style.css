@@ -1,0 +1,22 @@
+div{
+   background-color: rgb(160, 10, 17);
+   width: 30%;
+   color:rgb(12, 12, 12);
+   font-size: 20px;
+   padding: 50px; 
+   border-radius: 100%;
+}
+div:hover{
+     background-color: rgb(152, 142, 241);
+   width: 90%;
+   color:rgb(97, 27, 27);
+   font-size: 20px;
+   padding: 10px; 
+}
+div {
+    background-color:lime;
+   width:20px;
+   color: rgb(107, 67, 6);
+   font-size: 30px;
+   padding: 20px; 
+}

@@ -1,12 +1,18 @@
 window.addEventListener("DOMContentLoaded", () => {
   const sites  = [
   '3th day ujwal',
-  'anshika and shresta',
-  'Project-Uniquemeche',
+  'dilisha ghimire',
+  'pratik',
+  'saviour',
   'anmol lamsal',
-  'PRANIK PHUYEL PROJECT'
+  'dilisha pragati',
+  'project kamana siwakoti 12',
+  'srijan and sanjl',
+  'anshika and shresta',
+  'PRANIK PHUYEL PROJECT',
+  'Project-Uniquemeche',
+  'subham rajbanshi'
 ];
-
   const main_container = document.querySelector('.main-container');
   console.log(main_container);
 
