@@ -1,0 +1,41 @@
+#soca{
+    background-color: rgba(144, 104, 189, 0.671);
+  font-size: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  height: 60px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+#soca:hover{
+    background-color: rgba(80, 59, 104, 0.671);
+    font-size: 40px;
+    display: flex;
+   
+    justify-content: space-evenly;
+    height: 65px;
+    border-radius: 22px;
+    transition: 0.6s;
+}
+.a{
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 36px;
+    color: bisque;
+    
+}
+.a:hover{
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 39px;
+    color: bisque;
+    transition: 0.8S;
+}
+body{
+    background-color: rgba(117, 139, 139, 0.808);
+}
+#divv{
+    font-size:35px;
+    font-family: cursive;
+    color: rgb(219, 215, 211);
+}

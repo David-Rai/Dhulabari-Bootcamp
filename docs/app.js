@@ -1,5 +1,12 @@
 window.addEventListener("DOMContentLoaded", () => {
-  const sites = ['ram', 'shyam', 'hari', 'prashad'];
+  const sites  = [
+  '3th day ujwal',
+  'anshika and shresta',
+  'Project-Uniquemeche',
+  'anmol lamsal',
+  'PRANIK PHUYEL PROJECT'
+];
+
   const main_container = document.querySelector('.main-container');
   console.log(main_container);
 

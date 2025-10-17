@@ -1,0 +1,37 @@
+#num{
+    font-family: monospace;
+    font-size: 20px;
+}
+#but{
+    font-size: 30px;
+    font-family: monospace;
+    border-radius: 10px;
+    border: 1px solid rgb(181, 225, 226);
+    background-color: rgb(130, 175, 218);
+    color: aliceblue;
+}
+#num{
+    font-family: monospace;
+    color: rgba(203, 233, 233, 0.904);
+    font-size: 30px;
+}
+#a{
+    font-family: monospace;
+    color: rgba(216, 239, 250, 0.904);
+    font-size: 30px;
+}
+body{
+    background-color: rgba(49, 45, 75, 0.568);
+}
+#but:hover{
+    font-size: 34px;
+    font-family: monospace;
+    border-radius: 10px;
+    border: 1px solid rgb(123, 212, 163);
+    background-color: rgb(106, 221, 167);
+    transition: 1s;
+    color: antiquewhite;
+}
+#seca{
+    text-align: center
+}

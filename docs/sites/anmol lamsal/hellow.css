@@ -1,0 +1,20 @@
+div{
+  text-align: center;
+}
+#ac{
+    color: rgb(0, 0, 0);
+    background-color: rgba(240, 224, 5, 0.788);
+    width: 100px;
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin: 50px;
+    margin-top: 50px;
+    border-radius: 4px;
+}
+h1:hover{
+    background-color: brown;
+    padding: 8px;
+    border:10px solid blue;
+}

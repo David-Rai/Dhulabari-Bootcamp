@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(139, 139, 223);
+}
+#divb{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(61, 56, 133, 0.849);
+    height: 17px;
+   width: 600px;
+   border-radius: 20px;
+}
+#divb:hover{
+    padding: 20px;
+    display: flex;
+   
+    justify-content: space-evenly;
+    background-color: rgba(80, 160, 160, 0.582);
+    height: 22px;
+   width: 600px;
+   border-radius: 20px;
+   transition: 0.6s;
+}
+.a{
+    text-decoration: none;
+    font-size:22px;
+    color: rgb(219, 210, 216);
+    font-family: fantasy;
+}
+.a:hover{
+    text-decoration: none;
+    font-size:26px;
+    color: rgb(219, 210, 216);
+    font-family: fantasy;
+    transition: 0.8s;
+}
+#nm{
+  font-size: 35px;
+  font-family: fantasy;
+  color: beige;
+
+}
+#p{
+    font-size: 30px;
+    margin: 10px;
+    font-family: monospace;
+    color: azure
+}
+#divc{
+    font-size: 35px;
+    margin: 10px;
+    font-family: monospace;
+    color: rgb(211, 233, 233)
+}
+

@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Box Model</title>
+    <style>
+        p{
+            color: rgb(rgb(216, 147, 147), rgb(84, 194, 84), rgb(107, 107, 116));
+
+            background-color: yellow;
+            width: 80px;
+            border: 2px solid black
+            padding:20px;
+            margin-top:50px;
+        }
+    </style>
+    </head>
+    <body>
+        <p>box model</p>
+        <p>box demo</p>
+    </body>
+    </html>
